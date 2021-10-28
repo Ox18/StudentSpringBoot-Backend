@@ -1,4 +1,3 @@
 package com.arjuncode.studentsystem.controller;
 
-public class StudentController {
-}
+public class StudentController { }
